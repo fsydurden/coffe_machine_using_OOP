@@ -1,6 +1,6 @@
 # ☕ Coffee Machine using OOP (Python)
 
-This is a simple **Object-Oriented Python project** that simulates a coffee vending machine in the console. The program handles different drink options, manages resources, processes payments, and uses OOP principles like classes and methods to structure the code cleanly.
+This is the **Object-Oriented Programming (OOP)** version of my earlier Coffee Machine project. It's a console-based simulation of a coffee vending machine, now refactored using clean and modular OOP principles for better structure, readability, and maintainability.
 
 ## 🔧 Features
 
