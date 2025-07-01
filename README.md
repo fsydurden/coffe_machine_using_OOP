@@ -19,8 +19,5 @@ This is a simple **Object-Oriented Python project** that simulates a coffee vend
    git clone https://github.com/fsydurden/coffe_machine_using_OOP.git
    cd coffe_machine_using_OOP
 Run the Main Program
-
-bash
-Copy
-Edit
+ ```bash
 python main.py
